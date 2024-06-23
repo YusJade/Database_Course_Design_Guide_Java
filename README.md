@@ -1,5 +1,5 @@
 # 数据库课程设计指南：Java路线
-> yu
+> 原文链接：[📖Gitee(国内):](https://gitee.com/YouSaQVQ/Database_Course_Design_Guide_Java) [📖GitHub](https://github.com/YusJade/Database_Course_Design_Guide_Java)
 ## 技术说明
 本次课程设计的`Java`路线，主要是使用了`SpringBoot`框架与`MyBatis`框架。
 - `SpringBoot`:快速开发 Spring Web 应用的一种框架。

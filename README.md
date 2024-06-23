@@ -9,6 +9,7 @@
 - [🍎MyBatis 中文网：XML 映射器](https://mybatis.net.cn/sqlmap-xml.html)
 - [🍎MyBatis 中文网：动态 SQL](https://mybatis.net.cn/dynamic-sql.html)
 - [🍏Spring: Developing Your First Spring Boot Application](https://docs.spring.io/spring-boot/tutorial/first-application/index.html#getting-started.first-application.code)
+- [🍏Spring Initializr | 快速创建工程](https://start.spring.io/;)
 ## 课程设计资源索引
 为了帮助同学完成课程设计，我们准备了样例仓库，样例仓库中包含一个完整工程，工程基本上实现了一个简易的`SpringBoot`后端应用，仓库中还有开发时一同编写的教程文档；除此之外，我们还录制了系列讲解视频。以上资源完全由我们制作，其中可能包含一些错误，欢迎指正。
 ### 演示工程仓库

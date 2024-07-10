@@ -21,7 +21,7 @@
 - [🎞️bilibili: 【大学生实践作业】apifox演示接口测试](https://www.bilibili.com/video/BV1aVg6eDES3/?spm_id_from=333.1296.top_right_bar_window_default_collection.content.click&vd_source=9470381b8320ec917ae479f2d87ce68a)
 
 ### 贡献者
-特此感谢
+特此感谢<br>
 <a href="https://github.com/YusJade/SpringBoot-MyBatis-Example/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=YusJade/SpringBoot-MyBatis-Example&name=true" />
 </a>
@@ -45,8 +45,9 @@
 - [🌏github: YusJade/SpringBoot-MyBatis-DBDesign](https://github.com/YusJade/SpringBoot-MyBatis-DBDesign)
 
 ---
-再次感谢我的两位搭档，感谢这一个多月以来的紧密配合 **:>**
+再次感谢我的两位搭档，感谢这一个多月以来的紧密配合 **:>** <br>
 <a href="https://github.com/YusJade/SpringBoot-MyBatis-Example/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=YusJade/SpringBoot-MyBatis-Example&name=true" />
 </a>
+<br>
 <img width=80 src="./firefly_love.jpg"/>

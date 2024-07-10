@@ -33,9 +33,20 @@
   - [🍏 Thymeleaf 官网](https://www.thymeleaf.org/)
   - [📖 SpringBoot系列（六）集成thymeleaf详解版 - 全栈学习笔记 - 博客园 (cnblogs.com)](https://www.cnblogs.com/swzx-1213/p/12726432.html)
   - [📖 史上最详 Thymeleaf 使用教程 - 桌前明月 - 博客园 (cnblogs.com)](https://www.cnblogs.com/jerry126/p/11531310.html)
----
+
 - 方案二：前后端分离，推荐前端使用 Vue3 框架。
   
   **资料链接：**
   - [🍏 Vue.js - 渐进式 JavaScript 框架 | Vue.js (vuejs.org)](https://cn.vuejs.org/)
   - [📖 Vue3安装配置、开发环境搭建(组件安装卸载)（图文详细）-CSDN博客](https://blog.csdn.net/weixin_69553582/article/details/129584587)
+  
+#### 后端实践工程
+本人配合系列视频，再写一遍后端应用，尝试实现前后端分离的方案（不定期更新）。
+- [🌏github: YusJade/SpringBoot-MyBatis-DBDesign](https://github.com/YusJade/SpringBoot-MyBatis-DBDesign)
+
+---
+再次感谢我的两位搭档，感谢这一个多月以来的紧密配合 **:>**
+<a href="https://github.com/YusJade/SpringBoot-MyBatis-Example/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=YusJade/SpringBoot-MyBatis-Example&name=true" />
+</a>
+<img width=80 src="./firefly_love.jpg"/>
